@@ -1,9 +1,15 @@
-require("dotenv").config({ path: "../backend/.env" });
-const express = require("express");
-const path = require("path");
-const app = require("../backend/src/app");
+import dotenv from "dotenv";
+dotenv.config({ path: "../backend/.env" });
 
-// Serve the built React files (same folder, since Root Directory is now frontend)
+import express from "express";
+import path from "path";
+import { fileURLToPath } from "url";
+import app from "../backend/src/app.js";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Serve the built React files
 app.use(express.static(path.join(__dirname, "dist")));
 
 // Catch-all: send index.html for any route not handled by the API
