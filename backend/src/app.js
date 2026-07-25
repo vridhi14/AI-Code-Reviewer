@@ -4,7 +4,7 @@ const aiRoutes = require('./routes/ai.routes')
 const cors = require('cors');
 app.use(express.json());
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://ai-code-reviewer-3gzf.onrender.com",
     credentials: true
 }));
 
