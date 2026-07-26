@@ -1,4 +1,4 @@
-# 🤖 AI Code Reviewer
+<h1 align="center">🤖 AI Code Reviewer</h1>
 
 <div>
   
