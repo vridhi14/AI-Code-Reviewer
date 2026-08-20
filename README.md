@@ -1,8 +1,6 @@
 <h1 align="center">🤖 AI Code Reviewer</h1>
 <p align="center">
-  <a href="https://ai-code-reviewer-o6w9.onrender.com" target="_blank">
-    <img src="./assets/live-demo.png" alt="AI Code Reviewer Live Demo" width="800">
-  </a>
+  <a href="https://ai-code-reviewer-o6w9.onrender.com" target="_blank"></a>
 </p>
 
 
