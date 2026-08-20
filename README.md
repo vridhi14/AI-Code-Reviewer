@@ -1,8 +1,9 @@
 <h1 align="center">🤖 AI Code Reviewer</h1>
 <p align="center">
-  <a href="https://ai-code-reviewer-o6w9.onrender.com" target="_blank"></a>
+  <a href="https://ai-code-reviewer-o6w9.onrender.com">
+    <strong>🚀 AI CODE REVIEWER — LIVE DEMO</strong>
+  </a>
 </p>
-
 
 <div>
   
