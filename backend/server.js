@@ -6,8 +6,6 @@ const app = require("./src/app");
 
 const frontendPath = path.join(__dirname, "../frontend/dist");
 
-console.log("Frontend path:", frontendPath);
-
 app.use(express.static(frontendPath));
 
 app.get("/{*splat}", (req, res) => {
@@ -17,5 +15,5 @@ app.get("/{*splat}", (req, res) => {
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
-    console.log(`Server started on port ${PORT}`);
+    console.log(`Server started on port: ${PORT}`);
 });
