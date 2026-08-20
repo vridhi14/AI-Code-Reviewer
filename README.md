@@ -9,13 +9,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-AI%20Code%20Reviewer-purple?style=for-the-badge)](https://ai-code-reviewer-o6w9.onrender.com).
 
 </div>
 
 ---
 
 <h3>An AI-powered Code Review application that analyzes source code and provides intelligent suggestions, bug detection, optimization tips, and best practices using Google's Gemini AI.</h3>
+
+---
+[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-AI%20CODE%20REVIEWER-8A2BE2?style=for-the-badge)](https://ai-code-reviewer-o6w9.onrender.com)
 
 ---
 
