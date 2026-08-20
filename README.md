@@ -17,7 +17,11 @@
 <h3>An AI-powered Code Review application that analyzes source code and provides intelligent suggestions, bug detection, optimization tips, and best practices using Google's Gemini AI.</h3>
 
 ---
-[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-AI%20CODE%20REVIEWER-8A2BE2?style=for-the-badge)](https://ai-code-reviewer-o6w9.onrender.com)
+## Live demo : 
+
+<div align="center">
+  [![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-AI%20CODE%20REVIEWER-8A2BE2?style=for-the-badge)](https://ai-code-reviewer-o6w9.onrender.com)
+</div>
 
 ---
 
