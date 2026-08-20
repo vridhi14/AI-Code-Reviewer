@@ -1,4 +1,10 @@
 <h1 align="center">🤖 AI Code Reviewer</h1>
+<p align="center">
+  <a href="https://ai-code-reviewer-o6w9.onrender.com" target="_blank">
+    <img src="./assets/live-demo.png" alt="AI Code Reviewer Live Demo" width="800">
+  </a>
+</p>
+
 
 <div>
   
@@ -17,14 +23,6 @@
 <h3>An AI-powered Code Review application that analyzes source code and provides intelligent suggestions, bug detection, optimization tips, and best practices using Google's Gemini AI.</h3>
 
 ---
-## Live demo : 
-
-<div align="center">
-  [![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-AI%20CODE%20REVIEWER-8A2BE2?style=for-the-badge)](https://ai-code-reviewer-o6w9.onrender.com)
-</div>
-
----
-
 
 ## ✨ Features
 
