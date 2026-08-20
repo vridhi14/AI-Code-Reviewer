@@ -9,6 +9,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-AI%20Code%20Reviewer-purple?style=for-the-badge)](https://ai-code-reviewer-o6w9.onrender.com).
 
 </div>
 
@@ -186,6 +187,10 @@ git push origin feature-name
 ```
 
 5. Open a Pull Request
+
+---
+
+##live demo : https://ai-code-reviewer-o6w9.onrender.com
 
 ---
 
